@@ -1,3 +1,3 @@
-<script>
-  alert("Hello from Github!");
-</script>
+alert("Hello from Github!");
+console.log("Hello from Github!");
+
