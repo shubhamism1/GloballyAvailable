@@ -1,4 +1,4 @@
-console.log("logging from custom theme asset");
+console.log("logging from custom theme asset updated from github");
 var x = document.getElementsByClassName("cjStoreCustomer");
 var id = x[0].id;
 console.log("customer id is" + id);
